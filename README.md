@@ -1,4 +1,5 @@
 **Project Title:** Commanding Humanoid Articulation: Inverse Kinematics with Natural Language Interface
+
 **Team:** Ryan Quinn and Guillermo Mendoza
 
 ### Project Overview
