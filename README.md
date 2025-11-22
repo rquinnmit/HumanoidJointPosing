@@ -31,3 +31,12 @@ A successful project will demonstrate a robust mathematical solver that handles 
 
 ### References
 [1] Aristidou, A., et al. “Inverse kinematics techniques in computer graphics: A survey.” *Computer Graphics Forum*, vol. 37, no. 6, 29 Nov. 2017, pp. 35–58, [https://doi.org/10.1111/cgf.13310](https://doi.org/10.1111/cgf.13310).
+
+### Stack
+**Language:** Python 4.0
+
+**Math Engine:** NumPy
+
+**Rendering:** PyOpenGL + PyGame
+
+**NLP:** Standard Python re (Regex)
